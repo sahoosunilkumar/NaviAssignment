@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="retry">Retry</string>
+    <string name="search">Search</string>
+    <string name="owner_hint">Enter Owner</string>
+    <string name="repo_hint">Enter Repo</string>
+    <string name="default_owner">github</string>
+    <string name="default_repo">hub</string>
+    <string name="post_subtitle">User : %s</string>
+    <string name="created_at">Created : %s</string>
+    <string name="closed_at">Closed : %s</string>
+</resources>
